@@ -1,0 +1,42 @@
+[
+	{
+		"question": "What is actually electricity?",
+		"choice1": "A flow of water",
+		"choice2": "A flow of air",
+		"choice3": "A flow of atoms",
+		"choice4": "A flow of electrons",
+		"answer": 4
+	},
+	{
+		"question": "What do we call a newly hatched butterfly?",
+		"choice1": "A moth",
+		"choice2": "A butter",
+		"choice3": "A chrysalis",
+		"choice4": "A caterpillar",
+		"answer": 4
+	},
+	{
+		"question": "What vehicle manufacturer builds the 911 GT3?",
+		"choice1": "BMW",
+		"choice2": "Bentley",
+		"choice3": "Mercedes AMG",
+		"choice4": "Porsche",
+		"answer": 4
+	},
+	{
+		"question": "Which of the following animals can run the fastest?",
+		"choice1": "Tiger",
+		"choice2": "Cheetah",
+		"choice3": "Lion",
+		"choice4": "Leopard",
+		"answer": 2
+	},
+	{
+		"question": "Which football club does Jordan Henderson play for?",
+		"choice1": "Tottenham Hotspur",
+		"choice2": "Liverpool",
+		"choice3": "Chelsea",
+		"choice4": "Manchester City",
+		"answer": 2
+	}
+]
